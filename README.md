@@ -1,6 +1,6 @@
 # TripVerse
 
-A virtual tourism website, 'TripVerse,' that allows users to experience different cultures and have the fun of exploring from the comfort of their homes. It features dedicated pages for countries, providing a comprehensive look into each destination. Users can delve into culinary, ceremonial, and various other facets, making their virtual travel experience both informative and enjoyable.
+A virtual tourism website that allows users to experience different cultures and have the fun of exploring from the comfort of their homes. It features dedicated pages for each country, offering a comprehensive view of culinary traditions, ceremonies, and cultural facets, making virtual travel both engaging and informative.
 
 * Live: https://tripverse.netlify.app/
 
